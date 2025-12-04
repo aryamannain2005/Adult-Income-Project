@@ -1,7 +1,7 @@
 # 🧠 Adult Income Prediction Project  
 ### End-to-End Machine Learning + Streamlit Dashboard
 
-🔗 **Live App**: https://YOUR-APP-NAME.streamlit.app  
+🔗 **Live App**: https://aryamannain2005-adult-income-project.streamlit.app 
 🔗 **GitHub Repo**: https://github.com/aryamannain2005/Adult-Income-Project
 
 ---
